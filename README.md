@@ -19,12 +19,34 @@
 
 **`DEV ANAS ADEL`**
 
-##  طباعة كود الجلسة
+## 1- طباعة كود الجلسة
+
+- **من هنا  [استخراج الكود](https://replit.com/@bobiztestbot/bobiza-qrcode/)**
 
 <a href="https://replit.com/@bobiztestbot/bobiza-qrcode"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="استخراج كود جلسة البوت" width="250"></a>
 
-## تنصيب ياتو بوت في هيروكو
 
+
+
+## 2- تنصيب ياتو بوت في منصة ToyStack
+
+- **الأدوات التي ستجتاجها للتنصيب في المنصة :**
+
+- npm install
+ 
+- npm start
+
+
+**اضغط على الزر التالي للإنتقال الى المنصة :**
+
+    <br>
+<p align="center"><a href="https://toystack.ai"> <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45"/></a></p>
+
+
+
+## 📌 تنصيب ياتو بوت في منصة Heroku
+
+   - **اذا لم يكن لديك حساب هيروكو انشئ حسابا من هنا [Heroku](https://signup.heroku.com/), [انشاء حساب هيروكو](https://signup.heroku.com/).**
 
  [![تنصيب في هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpurnapurna2007%2FSend2%3Ftab%3Dreadme-ov-file&template=https://github.com/desanaskeb/YATO-BOT-MD)
 
@@ -34,20 +56,7 @@
 </P>
 
 
-Contributions to RCD-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## تنصيب في منصة ToyStack
-
-** - الأدوات التي ستجتاجها للتنصيب في المنصة :**
-
-- npm install
- 
-- npm start
-
-    <br>
-<p align="center"><a href="https://toystack.ai"> <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45"/></a></p>
-
-## المطـور :
+## الـمطـور :
 - [**WhatsApp**](https://wa.me/967736249487)
 
 - [**Telegram**](https://t.me/J_8_D)
