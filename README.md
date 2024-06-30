@@ -9,17 +9,25 @@
 
 
 
+
+
 ### خطوات التنصيب
    - ***اضغط [`FORK`](https://github.com/desanaskeb/YATO-BOT-MD/fork) وعلامة `Star ⭐ Repository` لدعمنا.***
 
      
 
 </p>
-🌟 ANAS MODS 🌟
+
+
+
 
 <a href="/"><img src="https://img.shields.io/badge/ANAS%20MODS-red" alt="ANAS CHANNEL" width="250"></a>
 
+
+
 **`DEV ANAS ADEL`**
+
+
 
 
 
@@ -36,19 +44,23 @@
 
 
 
+
+
 ## 2- تنصيب ياتو بوت في منصة ToyStack
 
-- **الأدوات التي ستجتاجها للتنصيب في المنصة :**
+**الأدوات التي ستجتاجها للتنصيب في المنصة :**
 
-- <npm install>
+- `npm install`
 
-- <npm start>
+- `npm start`
 
 
 **اضغط على الزر التالي للإنتقال الى المنصة :**
 
 
 <p align="center"><a href="https://toystack.ai"> <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45"/></a></p>
+
+
 
 
 
@@ -65,6 +77,8 @@
 
    </details>
 </P>
+
+
 
 
 
