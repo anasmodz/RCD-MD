@@ -13,26 +13,29 @@
 <img src="https://telegra.ph/file/a789a7f2437c053ec829a.jpg" width="540" height="280" />
 </p>         ⚔ 𝐑𝐂𝐃 𝐌𝐃 ⚔
 
-### Setup
 
-**📌DEPLOY ON HEROKU**
-   - ***Click [`FORK`](https://github.com/DEXTER-BOTS/RCD-MD/fork) and `Star ⭐ Repository` for Courage.***
-   - You will get a session ID in WhatsApp, copy the ID only.
-   - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
+
+### خطوات التنصيب
+   - ***اضغط [`FORK`](https://github.com/desanaskeb/YATO-BOT-MD/fork) وعلامة `Star ⭐ Repository` لدعمنا.***
+
+     
+**📌التنصيب في هيروكو**
+
+   - **اذا لم يكن لديك حساب هيروكو انشئ حسابا من هنا [Heroku](https://signup.heroku.com/), [انشاء حساب هيروكو](https://signup.heroku.com/).**
 </p>
-🌟 𝗗𝗘𝗫𝗧𝗘𝗥 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
+🌟 ANAS MODS 🌟
 
-<a href="/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
+<a href="/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="ANAS CHANNEL" width="250"></a>
 
-**`𝗥𝗖𝗗 𝗠𝗗 𝗕𝗢𝗧`**
+**`DEV ANAS ADEL`**
 
-##  PAIRING CODE SCAN
+##  طباعة كود الجلسة
 
-<a href="https://rcd-pair-f6b9296bccd2.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://replit.com/@bobiztestbot/bobiza-qrcode"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="استخراج كود جلسة البوت" width="250"></a>
 
-## DEPLOY IN HEROKU
+## تنصيب ياتو بوت في هيروكو
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpurnapurna2007%2FSend2%3Ftab%3Dreadme-ov-file&template=https://github.com/DEXTER-BOTS/RCD-MD)
+ [![تنصيب في هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpurnapurna2007%2FSend2%3Ftab%3Dreadme-ov-file&template=https://github.com/desanaskeb/YATO-BOT-MD)
 
 
 
@@ -42,12 +45,14 @@
 
 Contributions to RCD-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## License
+## تنصيب في منصة ToyStack
 
-The RCD-MD is released.
+** - الأدوات التي ستجتاجها للتنصيب في المنصة :**
 
-Enjoy the diverse features of the RCD-MD  to enhance your conversations and make your WhatsApp experience more interesting!
+- npm install
+ 
+- npm start
 
 ## Developer:
-- [**WhatsApp**](https://wa.me/94789958225)
+- [**WhatsApp**](https://wa.me/967736249487)
 
