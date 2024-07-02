@@ -2,7 +2,7 @@
 ## <p align="center">❮ YATO-MD WHATSAPP BOT ❯
 <br>
 
-<img src="https://telegra.ph/file/a789a7f2437c053ec829a.jpg" width="540" height="280" />
+<img src="https://telegra.ph/file/2a11f16d6e7efdbfd8a34.jpg" width="540" height="280" />
 </p>         ⚔ YATO BOT ⚔
 ‌
 ‌
