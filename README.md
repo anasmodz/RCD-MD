@@ -36,7 +36,7 @@
 
 - **من هنا  [استخراج الكود](https://replit.com/@bobiztestbot/bobiza-qrcode/)**
 
-<a href="https://replit.com/@bobiztestbot/bobiza-qrcode"><img src="https://img.shields.io/badge/استخراج%20الكود-PAIR%20CODE-red" alt="استخراج كود جلسة البوت" width="250"></a>
+<a href="https://replit.com/@bobiztestbot/bobiza-qrcode"><img src="https://img.shields.io/badge/SESSION%20ID-PAIR%20CODE-red" alt="استخراج كود جلسة البوت" width="250"></a>
 
 ‌
 
